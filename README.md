@@ -1,8 +1,50 @@
-# React + Vite
+# PassLock - Password Manager App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+A password manager app to store all the passwords and usernames for websites.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+**Direct Website Access:**
+  - Access the website directly without needing to type the URL.
+
+**Copy to Clipboard:**
+  - Easily copy the username and password by clicking the copy button.
+
+**Password Protection:**
+  - Saved passwords are hidden and will only be revealed when the button is clicked.
+
+## Installation
+
+To set up the Password Manager project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/PassLock-Password_Manager.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd PassLock-Password_Manager
+
+3. Install dependencies:
+   ```bash
+   npm install
+
+4. Start the application:
+   ```bash
+   node --watch server.js
+   npm run dev
+
+## Usage
+
+After installation, access the PassLock - Password Manager through your web browser to store all your website usernames and passwords.
+
+## Technologies Used
+
+- **React.js**
+- **Tailwind CSS**
+- **Express.js**
+- **MongoDB**
+
+
