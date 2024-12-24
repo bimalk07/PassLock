@@ -35,7 +35,6 @@ To set up the Password Manager project locally, follow these steps:
    ```bash
    node --watch server.js
    npm run dev
-  
 
 ## Usage
 
