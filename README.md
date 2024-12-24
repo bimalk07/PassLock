@@ -39,7 +39,7 @@ To set up the Password Manager project locally, follow these steps:
 
 ## Usage
 
-After installation, access the PassLock - Password Manager through your web browser. Keep all the username, password for your websites.
+After installation, access the PassLock - Password Manager through your web browser to store all your website usernames and passwords.
 
 ## Technologies Used
 
