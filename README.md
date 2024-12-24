@@ -1,4 +1,4 @@
-# PassLock - Password Manager App
+# PassLock - Password Manager
 
 ## Description
 
