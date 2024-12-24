@@ -21,11 +21,11 @@ To set up the Password Manager project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PassLock-Password_Manager.git
+   git clone https://github.com/your-username/PassLock-Password-Manager.git
 
 2. Navigate to the project directory:
    ```bash
-   cd PassLock-Password_Manager
+   cd PassLock-Password-Manager
 
 3. Install dependencies:
    ```bash
